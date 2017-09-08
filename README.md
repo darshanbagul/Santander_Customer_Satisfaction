@@ -1,4 +1,7 @@
-# Santander Customer Satisfaction Challenge
+# Santander Customer Satisfaction Challenge                    
+
+
+![Image](https://github.com/darshanbagul/Santander_Customer_Satisfaction/blob/master/images/santander.png)
 
 Which customers are happy customers?
 
